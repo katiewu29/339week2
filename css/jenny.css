@@ -4,7 +4,9 @@ body{
   line-heiht:1.15;
 }
 
-
+nav li{
+  border-radius: 25px;
+}
 
 
 
