@@ -3,7 +3,7 @@ h1, h2, h3{
   margin-top: 20px;
 }
 
- ul li {
+ nav li {
    margin-left: 25px;
    list-style-type: upper-roman; 
    background-color: cyan; 
