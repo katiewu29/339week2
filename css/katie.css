@@ -8,7 +8,9 @@ h1, h2, h3{
    list-style-type: upper-roman; 
    background-color: cyan; 
    border: 2px solid white; 
-   border-radius: 10px;
-  
+   border-radius: 10px; 
+   display: inline-block;
+   margin-left: 20px;
+   margin-right: 20px;
 }
 
