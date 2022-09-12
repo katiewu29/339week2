@@ -6,4 +6,9 @@ h1, h2, h3{
  ul li {
    margin-left: 25px;
    list-style-type: upper-roman; 
+   background-color: cyan; 
+   border: 2px solid white; 
+   border-radius: 10px;
+  
 }
+
