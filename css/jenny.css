@@ -11,8 +11,9 @@ nav li{
 div.gallery{
   display: grid;
   grid-template-columns: 250px 250px 250px;
-  border: 2px dashed;
+  border: 5px dashed #000000;
   width: 90%;
+  justify-content: center;
   
 }
 
