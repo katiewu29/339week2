@@ -9,7 +9,8 @@ nav li{
 }
 
 div.gallery{
-  grid-template-columns: 250px;
+  display: grid;
+  grid-template-column: 250px 250px;
 }
 
 
