@@ -10,7 +10,8 @@ nav li{
 
 div.gallery{
   display: grid;
-  grid-template-column: 250px 250px;
+  grid-template-column: 250px 250px 250px;
+  
 }
 
 
