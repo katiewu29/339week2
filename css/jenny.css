@@ -8,6 +8,8 @@ nav li{
   border-radius: 50px;
 }
 
-
+div.gallery{
+  display:grid;
+}
 
 
