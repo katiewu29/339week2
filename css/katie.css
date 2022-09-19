@@ -16,14 +16,14 @@ h1, h2, h3{
 }
 
 div.gallery{
-  display: grid;
-  grid-template-columns: 250px 250 px; 
-  border: 3px solid black; 
-  width: 90%;
-  justify: center;
-}
-
+   display: grid;
+   grid-template-columns: 100px 100px; 
+   border: 3px solid black; 
+   width: 90%;
+  }
+  
 .gallery img{
-  width: 250px;
-}
+   width: 90%;
+   border: 5px dashed green;
+  }
 
