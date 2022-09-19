@@ -15,3 +15,10 @@ h1, h2, h3{
    margin-right: 20px;
 }
 
+div.gallery{
+  display: grid;
+  grid-template-columns: 250px 250 px; 
+  border: 3px solid black; 
+  width: 90%;
+}
+
